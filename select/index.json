@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "僕のこと",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-21T12:25:24.855694Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_僕のこと_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "僕のこと (属于我的那些事)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_僕のこと_(属于我的那些事)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "僕のこと - Remastered 2020",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/03_僕のこと_-_Remastered_2020_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "僕のこと - Bokuno Koto",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/04_僕のこと_-_Bokuno_Koto_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "僕のこと - Orchestra ver.",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/05_僕のこと_-_Orchestra_ver._Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/06_僕のこと_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "僕のこと - Bokuno Koto",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/07_僕のこと_-_Bokuno_Koto_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "僕のこと - Bokuno Koto",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/08_僕のこと_-_Bokuno_Koto_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/09_僕のこと_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mrs. GREEN APPLE - 僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/10_Mrs._GREEN_APPLE_-_僕のこと_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "僕のこと (Orchestra ver.) - Bokuno Koto (Orchestra Version)",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/11_僕のこと_(Orchestra_ver.)_-_Bokuno_Koto_(Orchestra_Version)_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/12_僕のこと_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_僕のこと_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
