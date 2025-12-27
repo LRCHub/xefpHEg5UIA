@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – 僕のこと
+# Mrs. GREEN APPLE – 僕のこと (Orchestra ver.)
 
 > **歌詞登録ステータス：同期歌詞あり**
 
