@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – 僕のこと (Orchestra ver.)
+# Mrs. GREEN APPLE – 僕のこと - Bokuno Koto
 
 > **歌詞登録ステータス：同期歌詞あり**
 
