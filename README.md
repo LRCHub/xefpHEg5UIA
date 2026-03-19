@@ -1,4 +1,4 @@
-# Mrs. GREEN APPLE – 僕のこと - Bokuno Koto
+# Mrs. GREEN APPLE – 僕のこと
 
 > **歌詞登録ステータス：同期歌詞あり**
 
