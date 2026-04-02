@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "僕のこと",
   "base_artist": "Mrs. GREEN APPLE",
-  "createdAt": "2026-03-19T04:23:00.427102Z",
+  "createdAt": "2026-04-02T08:52:21.850020Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -115,6 +115,15 @@
       "artist": "Mrs. GREEN APPLE",
       "has_synced": true,
       "path": "select/localdb_01_僕のこと_Mrs._GREEN_APPLE.lrc",
+      "repo_name": "Zye3UHq7hPs"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "僕のこと",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/localdb_02_僕のこと_Mrs._GREEN_APPLE.lrc",
       "repo_name": "xefpHEg5UIA"
     }
   ]
